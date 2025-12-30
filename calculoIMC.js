@@ -1,0 +1,5 @@
+function calculoIMC(peso, altura) {
+    
+
+
+}
